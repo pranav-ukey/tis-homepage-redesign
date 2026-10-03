@@ -8,11 +8,11 @@ The redesign retains the school's existing content structure, navigation and vis
 
 ## Live Demo
 
-Add the deployed URL here.
+[View Live Website](https://tis-homepage-redesign-rho.vercel.app/)
 
 ## GitHub Repository
 
-Add the GitHub repository URL here.
+[View GitHub Repository](https://github.com/pranav-ukey/tis-homepage-redesign)
 
 ---
 

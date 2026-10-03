@@ -62,7 +62,7 @@ function Footer() {
             </p>
 
             <a
-              href="#admissions"
+              href="https://tis.edu.in/contact-us/"
               className="inline-flex rounded-full bg-white px-6 py-3 text-sm font-medium text-black transition-transform hover:-translate-y-1"
             >
               Enquire Now

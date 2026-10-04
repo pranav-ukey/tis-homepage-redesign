@@ -8,6 +8,7 @@ import Admissions from "./components/sections/Admissions";
 import Footer from "./components/layout/Footer";
 import ScrollProgress from "./components/effects/ScrollProgress";
 import CustomCursor from "./components/effects/CustomCursor";
+import CampusVideo from "./components/sections/CampusVideo";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Stats />
         <Academics />
         <Sports />
+        <CampusVideo />
         <Admissions />
         
       </main>
